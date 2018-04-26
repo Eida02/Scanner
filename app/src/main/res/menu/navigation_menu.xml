@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nev_home"
+        android:title="Home"
+        android:checkable="false"
+        android:onClick="@string/app_name" />
+    <item android:id="@+id/nev_account"
+      android:title="Facebook"
+
+        />
+
+    <item android:id="@+id/nev_google"
+        android:title="Google"/>
+
+    <item android:id="@+id/nev_youtube"
+        android:title="youtube"/>
+
+
+
+</menu>
